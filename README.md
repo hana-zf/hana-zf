@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hana-zf
-- 🌱 I’m currently learning web deevelopment.
+- 🌱 I’m currently learning web development.
 
 
 
