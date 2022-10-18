@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hana-zf
 - 🌱 I’m currently learning web development.
-
+- 📚 Currently learning Javascript with Vue framework
 
 
 <!---
